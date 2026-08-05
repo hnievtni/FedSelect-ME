@@ -57,10 +57,6 @@ The workflow consists of:
 5. Cross-edge model exchange
 6. Global model aggregation and evaluation
 
-<p align="center">
-  <img src="figures/workflow.png" width="850">
-</p>
-
 ---
 
 ## Experimental Evaluation
@@ -103,10 +99,6 @@ FedSelect-ME demonstrates:
 
 The framework achieves competitive performance compared with existing federated learning approaches, including FedAvg, FedProx, and FedSelect.
 
-<p align="center">
-  <img src="figures/results.png" width="850">
-</p>
-
 ---
 
 ## Research Paper
@@ -119,7 +111,8 @@ Hanie Vatani
 Reza Ebrahimi Atani  
 
 **Preprint:**  
-[arXiv link]
+arxiv: https://doi.org/10.48550/arXiv.2511.01898
+Semantic Scholar: https://www.semanticscholar.org/paper/FedSelect-ME%3A-A-Secure-Multi-Edge-Federated-with-Vatani-Atani/aeee903754189fe0c6f63fd7a0dc8d024e2f123c?utm_source=direct_link
 
 ---
 
