@@ -111,7 +111,7 @@ Hanie Vatani
 Reza Ebrahimi Atani  
 
 **Preprint**  
-arxiv: https://doi.org/10.48550/arXiv.2511.01898 
+arXiv: https://doi.org/10.48550/arXiv.2511.01898 
 
 ---
 
