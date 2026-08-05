@@ -110,9 +110,8 @@ The framework achieves competitive performance compared with existing federated 
 Hanie Vatani  
 Reza Ebrahimi Atani  
 
-**Paper**  
-**Preprint:** https://doi.org/10.48550/arXiv.2511.01898 
-**Index:** https://www.semanticscholar.org/paper/FedSelect-ME%3A-A-Secure-Multi-Edge-Federated-with-Vatani-Atani/aeee903754189fe0c6f63fd7a0dc8d024e2f123c?utm_source=direct_link
+**Preprint**  
+arxiv: https://doi.org/10.48550/arXiv.2511.01898 
 
 ---
 
