@@ -3,7 +3,7 @@
 A hierarchical multi-edge federated learning framework designed for secure, scalable, and energy-efficient healthcare applications.
 
 <p align="center">
-  <img src="figures/architecture.png" width="850">
+  <img src="figures/Flowchart of the Multi-Edge Federated Learning System.png" width="850">
 </p>
 
 ---
